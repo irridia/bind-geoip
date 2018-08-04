@@ -1,5 +1,5 @@
 # BIND GeoIP
-**ARCHIVE of code.google.com/p/bind-geoip**
+## ARCHIVE of code.google.com/p/bind-geoip
 
 This patch implements support for the MaxMind® geo-location database (http://www.maxmind.com/app/ip-location) and uses the GeoIP C API. This patch was inspired by the patch that used to live at http://www.caraytech.com/geodns/.
 
