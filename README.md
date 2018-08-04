@@ -3,7 +3,7 @@
 
 This patch implements support for the MaxMind® geo-location database (http://www.maxmind.com/app/ip-location) and uses the GeoIP C API. This patch was inspired by the patch that used to live at http://www.caraytech.com/geodns/.
 
-This patch was contributed to and substantially incorporated into the ISC BIND 9.10 release.
+This patch was contributed to and substantially incorporated into the [ISC BIND 9.10](https://www.isc.org/downloads/bind/bind-9-10-new-features/) release.
 
 **PLEASE NOTE**: With Google Code shutting down, these are the final versions of the patch that will be available. If you have an intractable issue or request for certain missing functionality to be forward-ported to 9.10+, consider emailing me on gmail as irridiakb. These patches have been downloaded many thousands of times, so I hope it's been useful! And RIP Slide.
 
